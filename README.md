@@ -8,10 +8,7 @@
 - 📊 Productivity analytics
 - 🔄 Smart calendar integration
 
-## Early Access
-[Join waitlist](https://yoursite.com/waitlist) for beta access and launch discount.
-
 ## Installation
 *Documentation will be available at launch*
 
-⭐ Star this repo to be notified when we launch!
+⭐ Star this repo to be notified about the early access beta sign-up and launch!
